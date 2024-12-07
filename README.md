@@ -8,6 +8,7 @@ Variables a configurar dentro del script speed_play.py:
   - TAUTULLI_URL = 'TU_TAUTULLI_URL/api/v2' # formato: http://IP:PUERTO/api/v2
   - QBITTORRENT_URL = 'TU_QBITTORRENT_URL' # formato: http://IP:PUERTO
   - QBITTORRENT_USER = 'TU_QBITTORRENT_USER'
+  - QBITTORRENT_PASSWORD = 'TU_QBITTORRENT_PASSWORD'
   - WAIT_TIME = 10  # Tiempo en segundos antes de desactivar la velocidad alternativa tras detener la reproducción
   - WAIT_CHECK = 10 # Tiempo entre comprobaciones si hay medios en reproducción
 
